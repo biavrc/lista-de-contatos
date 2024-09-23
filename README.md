@@ -1,4 +1,4 @@
-#Lista de Contatos
+# Lista de Contatos
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 18.2.4.
 
